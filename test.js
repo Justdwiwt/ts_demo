@@ -1,6 +1,8 @@
 "use strict";
 var a = 10;
 console.log(a);
+var b = 12;
+console.log(a + b);
 var i = 1;
 console.log(i++ + ++i);
 var j = 1;
